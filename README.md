@@ -35,3 +35,12 @@ If using an existing table users have to match the current data column headers w
 
 ## Flask App
 - Unfortunately, the Flask application could not be completed due to an issue specific to the Apple Operating System. This statement implies that the development environment or tools required for creating the Flask application encountered compatibility issues with macOS or other Apple OS versions.
+
+1. Filter Page
+   ![Step 4: Import](./A6.png "Step 4=6: Import")
+   This file is the filter page made from using Bootstrap 5.3
+
+   ![Step 4: Import](./A7.png "Step 4: Import")
+   ![Step 4: Import](./A8.png "Step 4: Import")
+   This is the issue that is getting arised. The app just will not run the query and will exit the code without throwing any errors.
+   
