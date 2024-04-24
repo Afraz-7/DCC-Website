@@ -23,7 +23,7 @@ This step involves selecting the file that contains the data to be imported into
 
 2. *Step 2: Select Schema*
 This step involves selecting the table that has to be written to in MySQL. Users are can either create a new table based on their current Schema or use an existing table.
-   ![Step 2: Select Schema](./A3.png "Step 2: Select Schema")
+   ![Step 2: Select Schema](./A5.png "Step 2: Select Schema")
 
 3. *Step 3: Select Column Match*
 If using an existing table users have to match the current data column headers with the headers in the file specified.
@@ -31,7 +31,7 @@ If using an existing table users have to match the current data column headers w
 
 4. *Step 4: Import*
    Once the file and column mappings are finalized, users proceed with the import process. This step initiates the transfer of data from the selected file into the MySQL database according to the specified configurations.
-   ![Step 4: Import](./A5.png "Step 4: Import")
+   ![Step 4: Import](./A3.png "Step 4: Import")
 
 ## Flask App
 - Unfortunately, the Flask application could not be completed due to an issue specific to the Apple Operating System. This statement implies that the development environment or tools required for creating the Flask application encountered compatibility issues with macOS or other Apple OS versions.
